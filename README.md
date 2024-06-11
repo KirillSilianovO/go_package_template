@@ -1,3 +1,4 @@
-# go_package_template
+# Go module template
 
-Шаблон Go-пакета
+## Description
+Template for go module
